@@ -10,4 +10,8 @@ Run the following:
 
 ```
 pip install -r requirements.txt
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 7ae08a66b69fc173907017abd3baf938bcdf3e57
