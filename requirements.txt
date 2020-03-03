@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+tensorflow==1.15
+pillow
+scikit-image
+click
