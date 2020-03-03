@@ -11,4 +11,3 @@ Run the following:
 ```
 pip install -r requirements.txt
 ```
-# semla_ivado_hands_on_coding
