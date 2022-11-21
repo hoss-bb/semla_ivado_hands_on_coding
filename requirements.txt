@@ -1,7 +1,7 @@
 numpy
 scipy
 matplotlib
-tensorflow==1.15
+tensorflow==2.9.3
 pillow
 scikit-image
 click
